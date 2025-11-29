@@ -1,0 +1,118 @@
+Acme Technologies Pvt. Ltd.
+Internal Operations & Policy Document
+Last Updated: November 2025
+
+------------------------------------------------------------
+1. Company Overview
+------------------------------------------------------------
+Acme Technologies is a software development and AI solutions company
+specializing in automation systems, intelligent chatbots, and data-driven
+enterprise tools. The company was founded in 2018 and currently operates
+from Bangalore, India with a workforce of 220 employees.
+
+Key departments include:
+- Research & Development (R&D)
+- Product Engineering
+- Customer Success
+- Sales & Marketing
+- Cloud Infrastructure
+- HR & Administration
+
+------------------------------------------------------------
+2. Product Lines
+------------------------------------------------------------
+Acme offers three primary product categories:
+
+1. Acme Assist (AI-powered support automation)
+   - Built using LLM-based conversation engines
+   - Supports 24/7 multilingual customer assistance
+   - Integrated with CRM systems like Freshdesk and HubSpot
+
+2. Acme Vision (Computer Vision Platform)
+   - Used for defect detection, surveillance analytics, and retail insights
+   - Supports real-time video stream processing
+   - Offers customizable model pipelines
+
+3. Acme Cloud Suite
+   - Provides scalable deployment tools for enterprise applications
+   - Includes monitoring dashboards, security alerts, and API gateways
+
+------------------------------------------------------------
+3. Employee Policies
+------------------------------------------------------------
+3.1 Working Hours
+- Standard working hours: 9:30 AM – 6:30 PM IST
+- Employees may opt for flexible timings with manager approval
+- Remote work is allowed for up to 3 days per week
+
+3.2 Leave Policy
+- Annual Leave: 18 days
+- Sick Leave: 12 days
+- Maternity Leave: 26 weeks
+- Paternity Leave: 15 days
+
+3.3 Code of Conduct
+- Employees must adhere to Acme’s confidentiality agreement
+- Usage of company systems for personal commercial activity is prohibited
+- Any form of harassment or discrimination will lead to disciplinary action
+
+------------------------------------------------------------
+4. Security Guidelines
+------------------------------------------------------------
+4.1 Device Security
+- All employee laptops must have company-approved antivirus installed
+- Devices should auto-lock after 5 minutes of inactivity
+- External storage devices are restricted unless whitelisted
+
+4.2 Data Handling
+- Sensitive data should only be stored on encrypted work drives
+- Sharing documents outside the organization requires approval from
+  the Security Office
+- Employees must use VPN while accessing internal tools remotely
+
+------------------------------------------------------------
+5. Customer Onboarding Process
+------------------------------------------------------------
+Steps followed when onboarding new enterprise customers:
+
+1. Initial Requirements Call  
+   - Conducted by Customer Success and Sales teams  
+   - Includes understanding customer expectations  
+
+2. Technical Assessment  
+   - R&D evaluates feasibility  
+   - Engineering shares integration requirements  
+
+3. Deployment  
+   - Cloud team prepares environment and deploys services  
+   - Customer Success trains end-users  
+
+4. Post-Launch Support  
+   - 24/7 support available  
+   - Monthly performance report shared with client  
+
+------------------------------------------------------------
+6. Incident Response Plan
+------------------------------------------------------------
+Severity Levels:
+- SEV 1: Critical outage (response within 15 minutes)
+- SEV 2: Major service disruption (response within 1 hour)
+- SEV 3: Minor issue (response within 24 hours)
+
+Escalation Matrix:
+- Level 1: Support Engineer
+- Level 2: Technical Lead
+- Level 3: Engineering Manager
+- Level 4: CTO
+
+------------------------------------------------------------
+7. Contact Directory
+------------------------------------------------------------
+- HR: hr@acmetech.in
+- IT Support: support@acmetech.in
+- Security Office: security@acmetech.in
+- Customer Success: cs@acmetech.in
+
+------------------------------------------------------------
+END OF DOCUMENT
+------------------------------------------------------------
